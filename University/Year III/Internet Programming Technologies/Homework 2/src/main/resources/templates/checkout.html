@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" th:href="@{/css/main.css}" type="text/css"/>
+    <title>Checkout Confirmation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+<div th:replace="~{fragments/general :: top}"/>
+<h2>Order Confirmation</h2>
+<div>
+    Thank you for your order. It has been processed successfully.
+</div>
+<div>
+    <h3>Order Details:</h3>
+    <ul>
+        <li th:each="item : ${order.orderLineItems}">
+            <span th:text="${item.product.name} + ' x ' + ${item.qty}">Product x Quantity</span>
+        </li>
+    </ul>
+</div>
+<div>
+    <a href="/products">Continue Shopping</a>
+</div>
+</body>
+</html>

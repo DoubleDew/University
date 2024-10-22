@@ -1,0 +1,9 @@
+Contract: 
+Course name: Digital Integrated Circuits, Type: FUNDAMENTAL, Stream: ENGLISH, Credit Points: 3
+
+Course name: Money and Banking, Type: DISCIPLINE, Stream: ENGLISH, Credit Points: 2
+
+Course name: Nigga Slavery, Type: FUNDAMENTAL, Stream: GERMAN, Credit Points: 50000
+
+Course name: Object Oriented Programming, Type: SPECIALIZATION, Stream: ENGLISH, Credit Points: 5
+

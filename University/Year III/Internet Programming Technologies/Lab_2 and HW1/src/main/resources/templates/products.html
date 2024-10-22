@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>View Products</title>
+</head>
+<body>
+<h1 th:text="${products.empty} ? 'No products found' : 'Product List'"></h1>
+<div th:if="${!products.empty}">
+    <div th:each="product : ${products}">
+        <span th:text="${product.id}">ID</span>:
+        <span th:text="${product.name}">Name</span>,
+        <span th:text="${product.price}">Price</span>,
+        <span th:text="${product.category}">Category</span>
+    </div>
+</div>
+<div th:if="${products.empty}">
+    <p>No products match your search criteria.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Care Provider Patients</title>
+</head>
+<body>
+<h1>Patients of Care Provider</h1>
+<ul>
+    <li th:each="patient : ${patients}" th:text="${patient.name}">Patient Name</li>
+</ul>
+</body>
+</html>

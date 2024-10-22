@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" th:href="@{/css/main.css}" type="text/css"/>
+    <title>See cart</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+<h2>Cart</h2>
+<form th:action="@{/cart/checkout}" method="post">
+    <div th:if="${cart.products}">
+        <ul>
+            <li th:each="entry : ${cart.products}"
+                th:text="${entry.key.name} + ' x ' + ${entry.value}">Product Name (Quantity)
+                <input type="number" th:field="*{products[__${entry.key.id}__].value}" th:value="${entry.value}" min="1">
+            </li>
+        </ul>
+    </div>
+    <div th:if="${cart.products == null || cart.products.isEmpty()}">Your cart is empty</div>
+    <button type="submit">Checkout</button>
+</form>
+</body>
+</html>

@@ -8,17 +8,15 @@ def task(*args):
 
     ################### TO DO #########################
     
-    good_int = lambda x: type(x) == int
-    good_consonant = lambda x: type(x) != "aeiou"
+    lower = lambda x: 1 if x.islower() else 0
+    good_consonant = lambda x: 0 if x in 'aeiou' else 1
+    not_word = lambda x: 1 if len(x) == 1 else 0
+    not_symbol = lambda x: 1 if x.isalpha() else 0  
     
     for i in args:
-        if good_int(i) == True:
+        if(type(i) == int or type(i) == str and lower(i) and good_consonant(i) and not_word(i) and not_symbol(i)):
             result.append(i)
-        elif good_consonant(i) == True:
-            result.append(i)
-        else:
-            result.append(None)
-
+        
     ###################################################
     
     return result

@@ -25,11 +25,11 @@ class Complex:
     def substract_complex_numbers(self, other) -> None:
         self.real_part -= other.real_part
         self.imaginary_part -= other.imaginary_part
-        
 
     def multiply_complex_numbers(self, other) -> None:
         x = self.real_part * other.real_part - self.imaginary_part * other.imaginary_part
         y = self.real_part * other.imaginary_part + self.imaginary_part * other.real_part
+        
         self.real_part = x
         self.imaginary_part = y
         

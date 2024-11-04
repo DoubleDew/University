@@ -16,7 +16,7 @@ class Store:
         for product in self.stock.list_stock:
             if product.name == product_name:
                 self.customer_carts[customer_id].add(product)
-                self.stock.list_stock.remove(product)
+                self.stock.remove(product)
     
     def remove_from_cart(self, customer_id, product_name):
         if customer_id not in self.customer_carts:

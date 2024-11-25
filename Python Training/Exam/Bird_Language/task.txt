@@ -1,0 +1,40 @@
+Pipo și Popu sunt două păsărele simpatice. Stând într-un copac ele ascultă convorbirile oamenilor. 
+Pipo, fiind mai mare, a învățat la școală limba română. 
+Acum Pipo trebuie să îi traducă lui Popu din limba română în limba păsărească cuvintele oamenilor. 
+Verifică dacă traduceriwle lui Pipo sunt corecte ținând cont de faptul că în limba păsărească vocalele se transformă astfel:
+
+a = apa
+e = epe
+i = ipi
+o = opo
+u = upu
+
+Input Format:
+    String:- cuvânt
+    String:- traducere
+
+Constraints
+    -
+
+Output Format:
+    Bool
+
+"Se va returna True sau False. „True” reprezintă faptul că traducerea cuvântului în limba păsărească este corectă, iar False opusul."
+
+Sample Input 0
+
+armonie
+aparmpoponipie
+
+Sample Output 0
+
+False
+
+Sample Input 1
+
+mare
+maparepe
+
+Sample Output 1
+
+True

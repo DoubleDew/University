@@ -1,0 +1,70 @@
+Scrabble este un joc de societate în care jucătorii formează cuvinte pe o tablă de joc folosind litere ce au fost trasate aleatoriu. 
+Fiecare literă are un anumit punctaj și jucătorii încearcă să maximizeze punctajul prin formarea de cuvinte lungi și folosirea literelor cu punctaje mari. 
+Scrieți un program care să simuleze acest joc.
+
+Implementați o funcție scrabble_words(letters, words) care primește două argumente:
+    letters: o listă de litere disponibile pentru a forma cuvinte
+    words: o listă care conține un set de cuvinte.
+
+Funcția trebuie să returneze un dicționar cu toate cuvintele valide din words care se pot forma folosind literele disponibile, împreună cu punctajele corespunzătoare pentru fiecare cuvânt și o listă de tupluri care vor conține cuvintele cu cel mai mare punctaj și punctajul acestora, adică elemente de tip listă de forma ['cuvânt', punctaj_maxim]. Punctajele pentru litere sunt următoarele:
+    a, e, i, o, u, l, n, r, s, t: 1 punct
+    d, g: 2 puncte
+    b, c, m, p: 3 puncte
+    f, h, v, w, y: 4 puncte
+    k: 5 puncte
+    j, x: 8 puncte
+    q, z: 10 puncte
+
+Input Format:
+
+Citirea este realizată, nu trebuie să modificați nimic! 
+De la tastatură se citesc 2 linii: prima care va conține literele permise, și a doua care va conține cuvintele care trebuie să fie verificate și a căror punctaj va trebui să fie calculat.
+Fiecare linie este transformată într-o listă.
+
+Constraints:
+Se vor citi doar 2 linii de la tastatură.
+
+Output Format:
+Va trebui să returnați un dicționar de forma {"cuvânt": "punctaj", } și o listă de liste de forma ['cuvânt', punctaj_maxim].
+
+Sample Input 0
+
+a c t p e r b
+carte pat act acre caramel rabbit crap
+
+Sample Output 0
+
+Cuvintele valide si punctajele lor:
+{'carte': 7, 'pat': 5, 'act': 5, 'acre': 6, 'crap': 8}
+
+Cuvintele cu cel mai mare punctaj:
+[['crap', 8]]
+
+Explanation 0
+
+Pentru lista de litere ['a', 'c', 't', 'p', 'e', 'r', 'b'], cuvintele valide sunt "carte", "pat", "act", "acre", "carpet", iar punctajele lor corespunzătoare sunt:
+
+'carte': 3 + 1 + 1 + 1 + 1 = 7 puncte
+
+'pat': 3 + 1 + 1 = 5 puncte
+
+'act': 3 + 1 + 1 = 5 puncte
+
+'acre': 1 + 3 + 1 + 1 = 6 puncte
+
+'crap': 3 + 1 + 1 + 3 = 8 puncte
+
+Astfel, cuvântul cu cel mai mare punctaj este 'crap' și are punctajul egal cu 8.
+
+Sample Input 1
+
+a e i o u
+aeiou aioeu ai iou
+
+Sample Output 1
+
+Cuvintele valide si punctajele lor:
+{'aeiou': 5, 'aioeu': 5, 'ai': 2, 'iou': 3}
+
+Cuvintele cu cel mai mare punctaj:
+[['aeiou', 5], ['aioeu', 5]]

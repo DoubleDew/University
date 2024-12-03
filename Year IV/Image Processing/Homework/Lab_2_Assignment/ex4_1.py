@@ -31,7 +31,7 @@ img_filtered = np.zeros([h,w])
 
 for i in range(mask_size // 2, w - mask_size // 2):
     for j in range (mask_size // 2, h - mask_size // 2):
-        V= img_noise[i - mask_size // 2:i + (mask_size // 2 + 1), j - mask_size // 2:j + (mask_size // 2 + 1)] 
+        V = img_noise[i - mask_size // 2:i + (mask_size // 2 + 1), j - mask_size // 2:j + (mask_size // 2 + 1)] 
         V = V * mask
         img_filtered[i, j] = np.sum(V)
         

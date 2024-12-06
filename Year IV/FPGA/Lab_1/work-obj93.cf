@@ -1,7 +1,0 @@
-v 4
-file . "sw_led.vhd" "20ae8c0837116304fa33458dd76eaa20d17db002" "20241004114901.188":
-  entity sw_led at 1( 0) + 0 on 15;
-  architecture behavioral of sw_led at 10( 171) + 0 on 16;
-file . "sw_led_top.vhd" "92396ba8cbcd503a2cfb3ccfaeb149713635860a" "20241004113540.728":
-  entity sw_led_top at 1( 0) + 0 on 13;
-  architecture behavioral of sw_led_top at 8( 91) + 0 on 14;

@@ -1,15 +1,16 @@
-library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
-
 entity sw_led_top is 
-
+	port(
+		sw : in STD_LOGIC_VECTOR (7 downto 0) ;
+		led : out STD_LOGIC_VECTOR (7 downto 0)
+	)
 end sw_led_top;
 
 architecture Behavioral of sw_led_top is 
 	component sw_led is 
-	port (
-		A: in STD_LOGIC_VECTOR (7 downto 0) ; 
-		   Y : out STD_LOGIC_VECTOR (7 downto 0));
+	port(
+			A: in STD_LOGIC_VECTOR (7 downto 0) ; 
+		   	Y : out STD_LOGIC_VECTOR (7 downto 0)
+		);
 	end component;
 
 	constant period : time := 10 ns;

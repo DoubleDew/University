@@ -1,0 +1,4 @@
+NET "led<0>" LOC = "m5";
+NET "sw<1>" LOC = "l3";
+NET "sw<0>" LOC = "p11";
+NET "btn<0>" LOC = "g12";

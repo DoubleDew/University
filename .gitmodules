@@ -1,6 +1,3 @@
-[submodule "Python Training/Python Training/Project/HardwareMonitorPython"]
-	path = Python Training/Python Training/Project/HardwareMonitorPython
-	url = https://github.com/bimj0rk/HardwareMonitorPython
 [submodule "Python Training/Project/HardwareMonitorPython"]
 	path = Python Training/Project/HardwareMonitorPython
 	url = https://github.com/bimj0rk/HardwareMonitorPython

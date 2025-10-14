@@ -1,0 +1,21 @@
+Laurica tocmai a terminat de citit prima ei carte in limba engleza. I-a plăcut foarte mult, dar nu a înțeles de ce toate cuvintele din titlurile capitolelor sunt capitalizate (scrise cu litera mare la început). Tocmai pentru ca i-a plăcut cartea atât de mult, Laurica s-a gândit sa rescrie orice propoziție pe care o întâlnește in formatul titlurilor englezești. Totuși, cerneala este scumpa in zilele noastre, așa ca ea va scrie din nou doar cuvintele care nu respecta formatul titlurilor englezești (adică cuvintele care încep cu litera mica), împreună cu orice semn de punctuație deja prezent in propoziție.
+Știind ca studenții din politehnica sunt pasionați de programare, Laurica va cere ajutorul si va roagă sa scrieți un program care afișează textul pe care dorește sa îl transcrie si numărul de litere pe care va trebui sa le scrie.
+Precizare: Cuvintele se despart doar prin spațiu, astfel sintagmele ce conțin semne ortografice, precum "într-un", se vor considera un singur cuvânt.
+
+Input Format:
+    Pe prima linie, propoziția pe care Laurica vrea sa o transforme într-un titlu englezesc.
+
+Constraints:
+    -
+
+Output Format:
+    Pe prima linie, propoziția pe care Laurica o va scrie (cu toate cuvintele capitalizate si excluzând cuvintele care erau deja capitalizate).
+    Pe a doua linie, numărul de caractere pe care le va scrie.
+
+Sample Input 0
+pamantul, Fiind Un maestru al modei naturale, reflecta Mai Mult Mo��u, Portocaliu Si galben, ceea ce ne face sa-l vedem maro.
+
+Sample Output 0
+Pamantul, Maestru Al Modei Naturale, Reflecta Galben, Ceea Ce Ne Face Sa-l Vedem Maro.
+87
+

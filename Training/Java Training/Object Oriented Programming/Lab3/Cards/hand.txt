@@ -1,0 +1,7 @@
+The hand in order: 
+Card: {rank = Rank: {  value = 6, text = Six'}, suit = Suit: {value = 1, text = Clubs}}
+Card: {rank = Rank: {  value = 2, text = Two'}, suit = Suit: {value = 2, text = Diamonds}}
+Card: {rank = Rank: {  value = 3, text = Three'}, suit = Suit: {value = 2, text = Diamonds}}
+Card: {rank = Rank: {  value = 5, text = Five'}, suit = Suit: {value = 2, text = Diamonds}}
+Card: {rank = Rank: {  value = 1, text = Ace'}, suit = Suit: {value = 3, text = Hearts}}
+Card: {rank = Rank: {  value = 4, text = Four'}, suit = Suit: {value = 4, text = Spades}}

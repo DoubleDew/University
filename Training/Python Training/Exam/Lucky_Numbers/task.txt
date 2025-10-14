@@ -1,0 +1,34 @@
+Gigel, un elev în clasa a patra, are convingeri puternice legate de numere. 
+El consideră ca unele cifre sunt norocoase, iar altele sunt ghinioniste. 
+Când Gigel numără, folosește doar numere care conțin cel puțin o cifră norocoasă, dar sare peste numerele care conțin cifre ghinioniste. 
+Doamna învățătoare vă roagă să scrieți o funcție care determina câte numere folosește Gigel când numără în intervalul [a, b].
+
+Input Format:
+    Pe prima linie se află un număr întreg N (1 ≤ N ≤ 9), numărul de cifre norocoase, urmat de cele N cifre norocoase separate prin spațiu.
+    Pe a doua linie se află un număr întreg G (1 ≤ G ≤ 9), numărul de cifre ghinioniste, urmat de cele G cifre ghinioniste separate prin spațiu.
+    Pe a treia linie se află două numere întregi separate prin spațiu, a și b (1 ≤ a ≤ b ≤ 10^6), reprezentând intervalul [a, b].
+
+Constraints:
+    -
+
+Output Format:
+    Numărul cerut
+
+Sample Input 0
+3 2 4 5
+2 8 1
+1 40
+
+Sample Output 0
+
+15
+
+Sample Input 1
+
+5 1 2 5
+4 3 9 7 6
+1 100
+
+Sample Output 1
+
+28

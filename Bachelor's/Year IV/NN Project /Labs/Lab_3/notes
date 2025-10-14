@@ -1,0 +1,10 @@
+NN lab 3 notes
+
+Features:
+    Normalization - mandatory for images
+    Dropout = drop some neurons to help prevent overfitting
+    New Transfer Functions 
+    Fully Connected Layer
+    
+
+

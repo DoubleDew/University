@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" th:href="@{/css/main.css}" type="text/css"/>
+    <title>See cart</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+<h2>Cart</h2>
+<div th:if="${cart.products}">
+    <ul>
+        <!-- Use the iteration status variable, 'stat', to get the current item count -->
+        <li th:each="product, stat : ${cart.products}"
+            th:text="${product.name} + ' (' + (stat.count) + ')'">Product Name (Item Number)
+        </li>
+    </ul>
+</div>
+<div th:if="${cart.products == null || cart.products.size() == 0}">Your cart is empty</div>
+</body>
+</html>

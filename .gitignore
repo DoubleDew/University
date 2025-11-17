@@ -1,3 +1,9 @@
-# Dataset
-Bachelor's/Year III/Project NNGA/dataset
+# Ignore dataset in NNGA project
+Bachelor's/Year III/Project NNGA/dataset/
+
+# Ignore Maven target directories
+**/target/
+
+# VS Code
+.vscode/
 

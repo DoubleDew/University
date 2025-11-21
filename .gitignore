@@ -4,6 +4,10 @@ Bachelor's/Year III/Project NNGA/dataset/
 # Ignore Maven target directories
 **/target/
 
+# Ignore SFX and VFX from Flappy Bird game
+Master's/Master's Year I/Game and Interactive Simulation Systems/Homework_1B/graphics
+Master's/Master's Year I/Game and Interactive Simulation Systems/Homework_1B/sounds
+
 # VS Code
 .vscode/
 

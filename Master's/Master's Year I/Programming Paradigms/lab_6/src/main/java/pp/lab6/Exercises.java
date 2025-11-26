@@ -84,8 +84,6 @@ public class Exercises {
             this.id = id;
             this.name = name;
             this.group = group;
-            
-            //comment for ex5, leave as is for ex7
             this.courses = courses;
         }
 
@@ -242,7 +240,7 @@ public class Exercises {
 
         System.out.println("\n--------------------------------");
 
-        //exercise 5 - commented for ex7 to work without much hassle
+        //exercise 5
         List<Student1> list5 = Arrays.asList(
             new Student1(1, "Alice", "1262"),
             new Student1(2, "Bob", "1263"),

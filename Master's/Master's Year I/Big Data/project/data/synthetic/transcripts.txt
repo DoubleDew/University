@@ -1,0 +1,41 @@
+Year 1975: Holstein cohort. PTA milk -1237.65. Reliability 0.98. Num records 2825. Noticed reduced milk output.
+Year 1976: Holstein cohort. PTA milk -1378.67. Reliability 0.98. Num records 2948. Noticed reduced milk output.
+Year 1977: Holstein cohort. PTA milk -1361.88. Reliability 0.98. Num records 2594. Noticed reduced milk output.
+Year 1978: Holstein cohort. PTA milk -1121.39. Reliability 0.98. Num records 3981. Noticed reduced milk output.
+Year 1979: Holstein cohort. PTA milk -1461.56. Reliability 0.98. Num records 5588. Generation interval 3.01. Noticed reduced milk output.
+Year 1980: Holstein cohort. PTA milk -1315.56. Reliability 0.98. Num records 3783. Generation interval 3.37. Noticed reduced milk output.
+Year 1981: Holstein cohort. PTA milk -1005.97. Reliability 0.99. Num records 7476. Generation interval 4.79. Noticed reduced milk output.
+Year 1982: Holstein cohort. PTA milk -1070.03. Reliability 0.97. Num records 3460. Generation interval 5.98. Noticed reduced milk output.
+Year 1983: Holstein cohort. PTA milk -955.32. Reliability 0.99. Num records 7042. Generation interval 7.01.
+Year 1984: Holstein cohort. PTA milk -994.39. Reliability 0.97. Num records 2673. Generation interval 7.58.
+Year 1985: Holstein cohort. PTA milk -774.71. Reliability 0.99. Num records 7139. Generation interval 7.80.
+Year 1986: Holstein cohort. PTA milk -839.36. Reliability 0.98. Num records 9982. Generation interval 7.98.
+Year 1987: Holstein cohort. PTA milk -714.35. Reliability 0.97. Num records 3356. Generation interval 8.33.
+Year 1988: Holstein cohort. PTA milk -690.28. Reliability 0.97. Num records 5639. Generation interval 8.26.
+Year 1989: Holstein cohort. PTA milk -251.21. Reliability 0.97. Num records 7932. Generation interval 8.40.
+Year 1990: Holstein cohort. PTA milk -590.70. Reliability 0.97. Num records 5677. Generation interval 7.86.
+Year 1991: Holstein cohort. PTA milk -296.73. Reliability 0.97. Num records 9153. Generation interval 7.47.
+Year 1992: Holstein cohort. PTA milk -362.27. Reliability 0.96. Num records 6753. Generation interval 7.77.
+Year 1993: Holstein cohort. PTA milk -352.07. Reliability 0.95. Num records 4332. Generation interval 7.67.
+Year 1994: Holstein cohort. PTA milk -56.23. Reliability 0.97. Num records 9326. Generation interval 7.65.
+Year 1995: Holstein cohort. PTA milk -51.92. Reliability 0.96. Num records 7742. Generation interval 7.38.
+Year 1996: Holstein cohort. PTA milk -55.93. Reliability 0.96. Num records 6032. Generation interval 7.07.
+Year 1997: Holstein cohort. PTA milk -6.30. Reliability 0.96. Num records 8648. Generation interval 6.74.
+Year 1998: Holstein cohort. PTA milk 58.49. Reliability 0.96. Num records 8059. Generation interval 6.77.
+Year 1999: Holstein cohort. PTA milk -7.03. Reliability 0.97. Num records 6214. Generation interval 6.94.
+Year 2000: Holstein cohort. PTA milk 121.41. Reliability 0.97. Num records 7519. Generation interval 6.64.
+Year 2001: Holstein cohort. PTA milk 321.71. Reliability 0.97. Num records 7366. Generation interval 6.73.
+Year 2002: Holstein cohort. PTA milk 326.15. Reliability 0.97. Num records 5973. Generation interval 6.80.
+Year 2003: Holstein cohort. PTA milk 485.27. Reliability 0.98. Num records 7588. Generation interval 6.73.
+Year 2004: Holstein cohort. PTA milk 611.45. Reliability 0.98. Num records 7494. Generation interval 6.82.
+Year 2005: Holstein cohort. PTA milk 657.47. Reliability 0.98. Num records 6610. Generation interval 6.96.
+Year 2006: Holstein cohort. PTA milk 389.32. Reliability 0.98. Num records 5476. Generation interval 6.73.
+Year 2007: Holstein cohort. PTA milk 280.98. Reliability 0.97. Num records 4415. Generation interval 6.93.
+Year 2008: Holstein cohort. PTA milk 436.56. Reliability 0.97. Num records 4560. Generation interval 7.29.
+Year 2009: Holstein cohort. PTA milk 485.27. Reliability 0.98. Num records 7924. Generation interval 6.89.
+Year 2010: Holstein cohort. PTA milk 594.13. Reliability 0.95. Num records 18594. Generation interval 5.36.
+Year 2011: Holstein cohort. PTA milk 899.88. Reliability 0.79. Num records 12299. Generation interval 4.52. Cow group appears lethargic.
+Year 2012: Holstein cohort. PTA milk 887.98. Reliability 0.78. Num records 11602. Generation interval 3.45. Cow group appears lethargic.
+Year 2013: Holstein cohort. PTA milk 1206.09. Reliability 0.77. Num records 1502. Generation interval 2.84. Cow group appears lethargic.
+Year 2014: Holstein cohort. Generation interval 2.61.
+Year 2015: Holstein cohort. Generation interval 2.38.

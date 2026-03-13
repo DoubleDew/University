@@ -1,0 +1,15 @@
+metric,value
+entries_total,170.0
+pct_with_observed_at,96.47058823529412
+pct_with_pta_milk,95.29411764705881
+pct_with_reliability,95.29411764705881
+pct_with_num_records,94.70588235294117
+pct_with_generation_interval,90.0
+pct_with_issues,28.823529411764703
+pta_milk_mean,-235.9095679012346
+reliability_mean,0.9563580246913581
+num_records_mean,6396.298136645963
+pta_milk_outliers,0.0
+reliability_outliers,0.0
+llm_entries,0.0
+llm_pct,0.0

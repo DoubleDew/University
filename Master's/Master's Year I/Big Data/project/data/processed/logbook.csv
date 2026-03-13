@@ -1,0 +1,3 @@
+entry_id,observed_at,cow_id,herd_group,observation,issues,pta_milk,reliability,num_records,generation_interval,structured_at,source
+2cc1f3d0-5a52-4813-8425-d7986457e7f0,2023-03-20,['Cal 69' 'Cal 45' 'Cal 88' 'Cal 12'],,"['low appetite and cough' 'limping on the front left leg'
+ 'mastitis and reduced milk output' 'normal with no issues']","{'Cow ID': 'Cal 69', 'Issue': 'low appetite and cough'};{'Cow ID': 'Cal 45', 'Issue': 'limping on the front left leg'};{'Cow ID': 'Cal 88', 'Issue': 'mastitis and reduced milk output'}",,,,,2026-01-22T06:09:10.945414Z,ollama:llama3

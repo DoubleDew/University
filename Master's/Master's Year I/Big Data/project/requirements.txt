@@ -1,0 +1,12 @@
+pandas>=2.0.0
+pyarrow>=14.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Optional for local speech-to-text (choose one)
+# faster-whisper>=1.0.0
+# openai-whisper>=20231117
+
+# Optional for local LLMs via transformers
+# transformers>=4.36.0
+# accelerate>=0.25.0

@@ -1,4 +1,5 @@
-commands for presentation:
+commands for presentation + some personal notes:
+
 whisper my_note.wav --model base.en --language English (shows that the speech to text works displaying the text in console)
 
 .venv\Scripts\activate.bat (activate the venv)
@@ -22,4 +23,5 @@ docker exec -it namenode hdfs dfs -put -f /tmp/logbook.parquet /project/logbook/
 docker exec -it namenode hdfs dfs -ls -h /project/logbook (verify)
 
 docker compose down (shut down docker)
+
 

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\Unity\\The Backrooms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|d:\\games\\unity\\the backrooms\\assets\\scripts\\cassette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cassette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\collecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\camerarotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerarotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|D:\\Games\\Unity\\The Backrooms\\assets\\scripts\\audiomanagerhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E2477-F7AB-9677-A048-B261E8E9A56F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanagerhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioManagerHub.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\AudioManagerHub.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManagerHub.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\AudioManagerHub.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManagerHub.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:59:25.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwOMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:54:23.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraRotation.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\CameraRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraRotation.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\CameraRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:53:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collecting.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\Collecting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collecting.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\Collecting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collecting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:22:11.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cassette.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\Cassette.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cassette.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\Cassette.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cassette.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:36:19.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInventory.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInventory.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:33:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FPSController.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\FPSController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FPSController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T11:45:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInputHandler.cs",
+              "DocumentMoniker": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\PlayerInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputHandler.cs",
+              "ToolTip": "D:\\Games\\Unity\\The Backrooms\\Assets\\Scripts\\PlayerInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInputHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:31:34.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

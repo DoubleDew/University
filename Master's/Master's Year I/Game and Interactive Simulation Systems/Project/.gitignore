@@ -1,0 +1,54 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures
+MemoryCaptures/
+
+# Asset meta data
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Rider / VSCode / Visual Studio
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Unity crash logs
+sysinfo.txt
+
+# Gradle cache (Android)
+.gradle/
+
+# Unity cache server
+*.cache
+
+# Auto-generated JetBrains files
+*.DotSettings.user
+
+# Addressables
+ServerData/
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
